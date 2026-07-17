@@ -32,5 +32,32 @@ DocSpot is a full-stack MERN application designed to simplify booking appointmen
    npm start
    ```
 
-## 📬 Contact
-For queries or improvements, reach out to the team!
+👨‍💻 Developers
+
+Avinash Gummalla
+Aspiring Full Stack Developer | Django Developer | Future Cloud & AI Engineer
+Github link :- https://github.com/Avinashgummalla2005
+
+Skills
+
+Python
+Django
+SQL
+HTML
+CSS
+JavaScript
+Git & GitHub
+
+Karthik Kuchimanchi
+Aspiring Full Stack Developer | Django Developer | Future Cloud & AI Engineer
+Github link :- https://github.com/karthikkuchimanchi10
+
+Skills
+
+Python
+Django
+SQL
+HTML
+CSS
+JavaScript
+Git & GitHub
